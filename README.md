@@ -1,67 +1,79 @@
 
-<h1 align="center">Hi, I'm Muhammad Fazal Hakeem 👋</h1>
+<h1 align="center">Muhammad Fazal Hakeem</h1>
 
-<h3 align="center">
-Project Manager | UI/UX Designer | Web Development Enthusiast
-</h3>
+<h3 align="center">Project Manager | UI/UX Designer | Digital Solutions</h3>
 
 <p align="center">
-  Turning ideas into digital experiences.
+  Turning ideas into user-friendly digital experiences.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-fazal-hakeem-513824441/">LinkedIn</a> •
+  <a href="https://github.com/fazalkhan0">GitHub</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm Muhammad Fazal Hakeem, a Computer Science graduate-in-progress
+I'm Muhammad Fazal Hakeem, a Computer Science student
 and Project Manager & UI/UX Designer at DevNex Innovation.
 
-I work on digital projects involving web applications, SaaS,
-mobile apps, Shopify, UI/UX design, and digital marketing.
+I work across digital project planning, UI/UX design,
+web technologies, e-commerce, and digital marketing.
+
+My goal is to connect creative design with practical
+execution to build useful digital experiences.
 
 - 💼 Project Manager & UI/UX Designer at DevNex Innovation
-- 🎓 BS Computer Science, University of South Asia
-- 🎨 Interested in UI/UX design and creative digital solutions
-- 💻 Familiar with HTML, CSS, and C++
-- 📈 Interested in SaaS, e-commerce, and digital growth
-- 🤝 Open to collaboration and new opportunities
+- 🎓 Computer Science — University of South Asia
+- 🎨 UI/UX, Adobe Photoshop, Canva, and Video Editing
+- 💻 HTML, CSS, and C++
+- 🛍️ Shopify, SaaS, and digital marketing
+- 📍 Lahore, Pakistan
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Technologies
 
-### Development
-HTML • CSS • C++
+**Development**
+- HTML
+- CSS
+- C++
 
-### Design & Creativity
-UI/UX Design • Adobe Photoshop • Canva • Video Editing
+**Design**
+- UI/UX Design
+- Adobe Photoshop
+- Canva
+- Video Editing
 
-### Business & Marketing
-Project Management • SaaS • Digital Marketing
-• Online Advertising • Shopify
-
----
-
-## 🚀 Projects
-
-Here are some areas I'm interested in building and exploring:
-
-- 🌐 Web Development Projects
-- 🎨 UI/UX Design Concepts
-- 🛍️ Shopify & E-commerce Experiences
-- 📱 SaaS and Mobile App Concepts
-
-*My projects will be added here as I build and publish them.*
+**Business & Digital**
+- Project Management
+- SaaS
+- Shopify
+- Digital Marketing
+- Online Advertising
 
 ---
 
-## 🤝 Connect With Me
+## 🚀 Portfolio
 
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-fazal-hakeem-513824441/
-- 💻 GitHub: https://github.com/fazalkhan0
+I'm building my portfolio with practical work in:
+
+- UI/UX design and case studies
+- Web development
+- E-commerce experiences
+- Digital product concepts
+
+Projects will be published here as they are completed.
 
 ---
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/muhammad-fazal-hakeem-513824441/
+- GitHub: https://github.com/fazalkhan0
 
 <p align="center">
-  <i>Building, learning, and turning ideas into execution.</i>
+  <i>Ideas meet execution.</i>
 </p>
